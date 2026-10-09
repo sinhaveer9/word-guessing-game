@@ -96,5 +96,4 @@ I also gained experience working with user input, generating random selections, 
 One of the most interesting parts of the project was understanding how individual programming concepts could be combined to create a complete interactive game.
 
 ## Author
-
 **Veer Sinha**
